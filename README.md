@@ -1,9 +1,9 @@
-### Olá, sou o Emerson Cavalcanti, sou Engenheiro de Software e desenvolvedor Full Stack com mais de 10 anos de experiência.
+### Hello, I'm Emerson Cavalcanti, I'm a Software Engineer and Full Stack developer with more than 10 years of experience.
 
-- ⚡ Já trabalhei com desenvolvimento WEB, Desktop e Mobile com as linguagens Java, C#, Delphi e PHP.
-- 💻 Atualmente estou trabalhando com os frameworks Flutter e Laravel
-- 📚 Estou estudando Python e JS/TS
-- 📫 Contate-me no email: emersoncavalcantijd@gmail.com
+- ⚡ I've worked with WEB, Desktop and Mobile development with Java, C#, Delphi and PHP languages.
+- 💻 I am currently working with Flutter and Laravel frameworks
+- 📚 I'm studying Python and JS/TS
+- 📫 Contact me at email: emersoncavalcantijd@gmail.com
 
 <div style="display: inline_block"><br>
 
