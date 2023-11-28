@@ -2,7 +2,7 @@
 
 - ⚡ I've worked with WEB, Desktop and Mobile development with Java, C#, Delphi and PHP languages.
 - 💻 I am currently working with Flutter and Laravel frameworks
-- 📚 I'm studying Python and JS/TS
+- 📚 I'm studying Python
 - 📫 Contact me at email: emersoncavalcantijd@gmail.com
 
 <div style="display: inline_block"><br>
