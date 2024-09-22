@@ -2,7 +2,6 @@
 
 - ⚡ I've worked with WEB, Desktop and Mobile development with Java, C#, Delphi and PHP languages.
 - 💻 I am currently working with Flutter and Laravel frameworks
-- 📚 I'm studying Python
 - 📫 Contact me at email: emersoncavalcantijd@gmail.com
 
 <div style="display: inline_block"><br>
@@ -15,7 +14,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   
   ##
